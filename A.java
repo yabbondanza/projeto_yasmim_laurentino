@@ -34,4 +34,10 @@ public class A {
         int soma = a + b;
         return soma;
     }
+
+    public int getSomaVERS2(int a, int b) {
+        int soma = a + b;
+        return soma;
+    }
+
 }
